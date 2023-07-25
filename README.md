@@ -14,7 +14,7 @@ This project is a recruitment task I received at the beginning of my journey wit
 
 ## Example output of the API:
 
-<img width="151" alt="image" src="https://github.com/01Cramer/GitHub-Profiler-API/assets/115926987/caaa20d7-58ab-48de-83e4-64bf668b03d6">
+<img width="156" alt="image" src="https://github.com/01Cramer/GitHub-Profiler-API/assets/115926987/c5fc5081-11c4-4981-b5bd-33946a3d9609">
 
 
 
