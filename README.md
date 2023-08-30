@@ -1,5 +1,3 @@
-# GitHub-profiler-API
-
 ## GitHub-Profiler-API is a simple API built in Flask. It allows  you to get basic information about GitHub users, and the languages (with bytes of code) they use in their repositories, in a very simple and clear way.
 
 ## Running the API
